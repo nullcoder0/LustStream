@@ -3,7 +3,16 @@
 
 🎥 Record **Stripchat** livestreams effortlessly — **Unlimited**, **Automatic**, and **Forever Free**!
 
-![LustStream Recorder Banner](/assets/banner.png)
+<p align="center">
+  <img src="assets/banner.png" alt="LustStream Recorder Banner" width="700"/>
+</p>
+
+<div align="center">
+  <a href="https://github.com/nullcoder0/LustStream/releases/download/v1.0.0/LustStream-1.0.0beta.zip">
+    <img src="https://img.shields.io/badge/DOWNLOAD-LustStream%20v1.0.0-brightgreen?style=for-the-badge&logo=download&logoColor=white&color=ff5252" alt="Download LustStream" width="400"/>
+  </a>
+  <p>Latest Version: v1.0.0 Beta • Windows Only • No Installation Required</p>
+</div>
 
 ---
 
@@ -22,11 +31,14 @@
 ## 📸 **Visual Examples**  
 
 ### 🖥️ Multi-Stream Interface  
-<img src="assets/image1.jpg" alt="Escolha do Barbeiro" style="width: 70%; display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"/>
-
+<p align="center">
+  <img src="assets/image1.jpg" alt="LustStream Multi-Stream Interface" width="600"/>
+</p>
 
 ### 📼 Multiple Recordings at Once  
-<img src="assets/image2.png" alt="Escolha do Barbeiro" style="width: 70%; display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"/>
+<p align="center">
+  <img src="assets/image2.png" alt="LustStream Multiple Recordings" width="600"/>
+</p>
 
 ---
 
@@ -43,9 +55,6 @@ Perfect for fans who don't want to miss their favorite broadcasts and want to wa
 This tool is free for life and always will be 💖  
 But if you find it useful and want to help keep it alive and growing, consider a small donation 🙏
 
-[☕ Buy me a coffee](https://www.paypal.com/donate/?business=U7AFSXBZVCLFS&no_recurring=0&item_name=Free++recorder+forever.%0AIf+you+like+it%2C+consider+donating+%E2%80%94+any+amount+helps%21+%E2%9D%A4%EF%B8%8F&currency_code=USD) — Every bit helps!
-
----
 
 > Made with ❤️ for the stream-loving community.
 
