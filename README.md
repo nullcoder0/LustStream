@@ -3,7 +3,7 @@
 
 🎥 Record **Stripchat** livestreams effortlessly — **Unlimited**, **Automatic**, and **Forever Free**!
 
-![LustStream Recorder Banner](/assets/banner.png)
+![LustStream Recorder Banner](./assets/banner.png)
 
 ---
 
@@ -22,11 +22,10 @@
 ## 📸 **Visual Examples**  
 
 ### 🖥️ Multi-Stream Interface  
-<img src="assets/image1.jpg" alt="Escolha do Barbeiro" style="width: 70%; display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"/>
-
+![LustStream Multi-Stream Interface](./assets/image1.jpg)
 
 ### 📼 Multiple Recordings at Once  
-<img src="assets/image2.png" alt="Escolha do Barbeiro" style="width: 70%; display: block; margin: 20px auto; border: 1px solid #ddd; border-radius: 8px;"/>
+![LustStream Multiple Recordings](./assets/image2.png)
 
 ---
 
@@ -49,4 +48,4 @@ But if you find it useful and want to help keep it alive and growing, consider a
 
 > Made with ❤️ for the stream-loving community.
 
-#### Tags: stripchat recorder, stripchat downloader, download stripchat videos, stripchat capture, adult stream recorder, cam recording software
+#### Tags: stripchat recorder, stripchat downloader, download stripchat videos, stripchat capture, adult stream recorder, cam recording software 
