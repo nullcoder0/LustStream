@@ -1,0 +1,51 @@
+# 🌟 **LustStream Recorder** 🚀
+### The Best Free and Unlimited Stripchat Recorder
+
+🎥 Record **Stripchat** livestreams effortlessly — **Unlimited**, **Automatic**, and **Forever Free**!
+
+![LustStream Recorder Banner](./assets/banner.png)
+
+---
+
+## ✨ **Awesome Features**  
+
+✅ **Unlimited Recording** - No time or number of recordings restrictions  
+✅ **100% Free – Forever!** - No hidden fees or subscriptions  
+✅ **Multi-Recording** – Capture multiple livestreams at once  
+✅ **Multi-Stream Support** – Monitor and record many models simultaneously  
+✅ **Automatic Recording** – Detects when a live starts and records instantly  
+✅ **Simple & Clean Interface** - Easy to use for anyone  
+✅ **Lightweight and Easy to Run** - No powerful computer required
+
+---
+
+## 📸 **Visual Examples**  
+
+### 🖥️ Multi-Stream Interface  
+![LustStream Multi-Stream Interface](./assets/image1.jpg)
+
+### 📼 Multiple Recordings at Once  
+![LustStream Multiple Recordings](./assets/image2.png)
+
+---
+
+## 🔍 **Why Choose LustStream Recorder?**
+
+**LustStream** is the best solution for anyone wanting to record **Stripchat** streams. Unlike other recorders that require payment or have limited features, our software is **completely free** and offers all the functionality you need.
+
+Perfect for fans who don't want to miss their favorite broadcasts and want to watch them whenever they want!
+
+---
+
+## ❤️ Support the Project
+
+This tool is free for life and always will be 💖  
+But if you find it useful and want to help keep it alive and growing, consider a small donation 🙏
+
+[☕ Buy me a coffee]([https://paypal.me/luststream](https://www.paypal.com/donate/?business=U7AFSXBZVCLFS&no_recurring=0&item_name=Free++recorder+forever.%0AIf+you+like+it%2C+consider+donating+%E2%80%94+any+amount+helps%21+%E2%9D%A4%EF%B8%8F&currency_code=USD)) — Every bit helps!
+
+---
+
+> Made with ❤️ for the stream-loving community.
+
+#### Tags: stripchat recorder, stripchat downloader, download stripchat videos, stripchat capture, adult stream recorder, cam recording software 
